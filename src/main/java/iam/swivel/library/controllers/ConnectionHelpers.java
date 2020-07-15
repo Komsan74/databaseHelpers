@@ -88,7 +88,6 @@ public class ConnectionHelpers {
         } catch (Exception e) {
             rs = null;
         }
-
         return rs;
     }
 
