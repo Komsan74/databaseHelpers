@@ -1,5 +1,5 @@
 ## databaseHelpers
-## ConnectionHelpers Library
+## ConnectionHelpers - Java Library
 เป็นไลบรารี่ ที่สร้างขึ้นมาเพื่อใช้ในการเชื่อมต่อกับฐานข้อมูล และคิวรี่ข้อมูลด้วยคำสั่ง SQL
 ทดสอบการใช้งานกับฐานข้อมูล MySQL, SQLite, PostgreSQL สามารถใช้งานได้ดี
 
