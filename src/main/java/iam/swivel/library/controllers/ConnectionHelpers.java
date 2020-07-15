@@ -5,11 +5,11 @@ import java.sql.*;
 import static java.sql.DriverManager.*;
 
 public class ConnectionHelpers {
-    private String dbName;
     private String dbDriver;
-    private String dbURI;
+    private String dbName;
     private String dbUser;
     private String dbPassword;
+    private String dbURI;
 
     private Connection conn;
     private Statement stmt;
